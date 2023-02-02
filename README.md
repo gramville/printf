@@ -80,11 +80,6 @@ Integer: printf("%i", 5); Output: 5
 ---
 > gcc -Wall -Werror -Wextra -pedantic *.c
 
-## Authors
----
-- [Yared Yilma](https://github.com/yaredow)
-- [Abdisa Gemechu](https://github.com/abdisag1)
 
-## Acknowledgements
 ---
 This program was written with a team for ALX school. [ALX](https://www.alxafrica.com/) is African  Leadership Group which has partnerd withSilicon Valley leading tech training school, Holberton to provide a software engineering program for african youth. 
